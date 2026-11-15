@@ -1,0 +1,15 @@
+{
+  "name": "discord-247",
+  "version": "1.0.0",
+  "description": "Jaga akun Discord tetap online 24/7 di VPS. Login pakai email/username + password sekali, token disimpan otomatis.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=20.18.0" },
+  "dependencies": {
+    "discord.js-selfbot-v13": "3.7.1",
+    "dotenv": "^16.4.5",
+    "pino": "^9.4.0",
+    "pino-pretty": "^11.2.2"
+  }
+}

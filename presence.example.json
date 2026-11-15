@@ -1,0 +1,31 @@
+[
+  {
+    "type": "PLAYING",
+    "name": "Minecraft",
+    "details": "Bertahan hidup",
+    "state": "Hari ke-100",
+    "largeImage": "https://raw.githubusercontent.com/USERNAME/REPO/main/images/banner.png",
+    "largeText": "Minecraft",
+    "smallImage": "https://files.catbox.moe/xxxxxx.png",
+    "smallText": "Online",
+    "elapsed": true,
+    "buttons": [{ "label": "GitHub", "url": "https://github.com/LitRHap" }],
+    "customStatus": { "text": "24/7 online", "emoji": "🟢" }
+  },
+  {
+    "type": "WATCHING",
+    "name": "YouTube",
+    "details": "Nonton video coding",
+    "largeImage": "https://files.catbox.moe/yyyyyy.gif"
+  },
+  {
+    "type": "STREAMING",
+    "name": "Coding live",
+    "details": "Bikin bot Discord",
+    "url": "https://www.twitch.tv/namakamu"
+  },
+  {
+    "type": "CUSTOM",
+    "customStatus": { "text": "Sedang sibuk", "emoji": "💤" }
+  }
+]
